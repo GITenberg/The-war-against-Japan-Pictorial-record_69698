@@ -1,0 +1,32 @@
+_repo: The-war-against-Japan-Pictorial-record_69698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Army
+    aliases:
+    - Army, US
+    - U.S. Army
+    - Army, U. S.
+    - Army, U.S.
+    gutenberg_agent_id: '53239'
+    url: http://www.gutenberg.org/2009/agents/53239
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Army
+description: ''
+gutenberg_issued: '2023-01-03'
+identifiers:
+  gutenberg: '69698'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t8fg0891p&view=1up&seq=31&skin=2021
+pgterms:marc905: 20211024002932army
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Alan, Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Historical Division,1952.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The war against Japan: Pictorial record'
+url: http://www.gutenberg.org/ebooks/69698
